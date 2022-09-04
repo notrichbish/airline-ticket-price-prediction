@@ -6,7 +6,7 @@ The project is coded in R Language using the R Studio IDE.
 
 There are 2 dataset used in this project which are located in the "Dataset" folder.
 
-The fuil code can be viewed in the "Code.R" file. 
+The full code can be viewed in the "Code.R" file. 
 
 If anyone wants to use a part of the code. Please reference it. Thanks. 
 
