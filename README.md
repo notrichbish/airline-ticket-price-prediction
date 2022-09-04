@@ -10,4 +10,4 @@ The fuil code can be viewed in the "Code.R" file.
 
 The fuil report can be viewed in the "Report.docx" file. 
 
-If anyone wants to use a part of the code. Please refeence it. Thanks. 
+If anyone wants to use a part of the code. Please reference it. Thanks. 
