@@ -14,9 +14,9 @@ If anyone wants to use a part of the code. Please reference it. Thanks.
 
 Current research within this domain imply that airline ticket prices can be predicted using a set of a certain features which can be useful companies and tourist to deduce the price and when is the best time to buy a flight ticket. As the price of a flight ticket fluctuates as there is a seasonal price is applied from time to time, it is difficult to get an accurate prediction. Thus, the main question now is it possible to predict the ticket price based on features related to the flight itself such as flight duration, number of stops, etc.
 
-During correlation analysis, a strong positive correlation of =0.92 is identified between average price and remaining days left to buy the ticket. This was the strongest of all correlation founded. The linear regression analysis discovered that the feature “average price” and “days_left” could explain 62.53% of the variation of “average price”. Moreover, the timeseries analysis forecasted that in April 2023 the ticket price for Jet Airways is ₹12431.34.
+During correlation analysis, a strong positive correlation of 0.92 is identified between average price and remaining days left to buy the ticket. This was the strongest of all correlation founded. The linear regression analysis discovered that the feature “average price” and “days_left” could explain 62.53% of the variation of “average price”. Moreover, the timeseries analysis forecasted that in April 2023 the ticket price for Jet Airways is ₹12431.34.
 
-Overall, the findings in this report conclude that the features can be used to predict the airline ticket price. Nevertheless, more features could be considered such as weather condition or expanding the dataset more with numerical variables to predict a more accurate result.
+Overall, the findings in this project conclude that the features can be used to predict the airline ticket price. Nevertheless, more features could be considered such as weather condition or expanding the dataset more with numerical variables to predict a more accurate result.
 
 # Statistical Questions
 1.	Does choosing different airlines affect the price of the ticket?
